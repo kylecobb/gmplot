@@ -1,10 +1,16 @@
 from gmplot import gmplot
 import pandas as pd 
+import numpy as np
+
 
 # column_names = ['timestamp', 'latitude', 'longitude', 'total_berries', 'total_rpc', 'rpc_drop']
 # names=column_names
 
-df = pd.read_csv('berry.csv', names=['timestamp', 'latitude', 'longitude', 'total_berries', 'total_rpc', 'rpc_drop', 'errorcode'])
+df2 = pd.read_csv('berry.csv', names=['timestamp', 'latitude', 'longitude', 'work_cell', 'total_rpc', 'rpc_drop', 'errorcode'], na_values=['NaN','#N/A'], skip_blank_lines=True)
+
+df = df2.dropna(subset=['longitude'])
+
+# print df
 
 # lat_float = pd.Series(df['latitude'], dtype='float')
 # lon_float = pd.Series(df['longitude'], dtype='float')
@@ -30,7 +36,7 @@ for j in df['longitude']:
 print latplots
 print lonplots
 
-gmap.plot(latplots, lonplots, 'cornflowerblue', edge_width=5)
+gmap.plot(latplots, lonplots, 'white', edge_width=2)
 
 
 # Scatter points of errors in the field, using error codes highlighted in the CSV 
@@ -50,7 +56,7 @@ for b in error_longitude:
 print error_latplots
 print error_lonplots
 
-gmap.scatter(error_latplots, error_lonplots, '#3B0B39', size=40, marker=False)
+gmap.scatter(error_latplots, error_lonplots, '#3B0B39', size=5, marker=False)
 
 
 # Using the last coordinate to show where we parked the tractor 
@@ -59,6 +65,13 @@ parked_lat = df['latitude'].iloc[-1]
 parked_lon = df['longitude'].iloc[-1]
 
 gmap.marker(parked_lat, parked_lon, 'cornflowerblue')
+
+# Heatmap code can support many gps coordinates
+
+gmap.heatmap(latplots, lonplots)
+
+# gmap.heatmap(error_latplots, error_lonplots)
+
 
 # Draw
 gmap.draw("my_berry_map_data.html")
