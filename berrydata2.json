@@ -1,0 +1,571 @@
+{  
+  "berrydata": [
+    {
+      "timestamp": "000000",
+      "lat": 34.93338,
+      "lon": -120.52744,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000000",
+      "lat": 34.93338,
+      "lon": -120.52745,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000000",
+      "lat": 34.93338,
+      "lon": -120.52746,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000000",
+      "lat": 34.93338,
+      "lon": -120.52743,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000000",
+      "lat": 34.93338,
+      "lon": -120.5274,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000000",
+      "lat": 34.93338,
+      "lon": -120.52742,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000000",
+      "lat": 34.93338,
+      "lon": -120.52748,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000000",
+      "lat": 34.93338,
+      "lon": -120.52749,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000000",
+      "lat": 34.93338,
+      "lon": -120.52752,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000000",
+      "lat": 34.93338,
+      "lon": -120.52747,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000000",
+      "lat": 34.93338,
+      "lon": -120.5274,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000000",
+      "lat": 34.93338,
+      "lon": -120.52735,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000210",
+      "lat": 34.937524,
+      "lon": -120.525479,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000420",
+      "lat": 34.936959,
+      "lon": -120.530659,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "000630",
+      "lat": 34.928127,
+      "lon": -120.529602,
+      "robot": 1,
+      "rpc_count": 1,
+      "rpc_drop": 1,
+      "error": 0
+    },
+    {
+      "timestamp": "000840",
+      "lat": 34.928128,
+      "lon": -120.529402,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.92813,
+      "lon": -120.529202,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 22
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93013,
+      "lon": -120.529002,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93213,
+      "lon": -120.528802,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93413,
+      "lon": -120.528602,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 3
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93613,
+      "lon": -120.528402,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93813,
+      "lon": -120.528202,
+      "robot": 1,
+      "rpc_count": 2,
+      "rpc_drop": 1,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.94013,
+      "lon": -120.528002,
+      "robot": 1,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93338,
+      "lon": -120.52744,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93338,
+      "lon": -120.52744,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.937524,
+      "lon": -120.525479,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.936959,
+      "lon": -120.530659,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.928127,
+      "lon": -120.529602,
+      "robot": 2,
+      "rpc_count": 3,
+      "rpc_drop": 1,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.928128,
+      "lon": -120.529402,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.92813,
+      "lon": -120.529202,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 22
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93013,
+      "lon": -120.529002,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93013,
+      "lon": -120.529002,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93013,
+      "lon": -120.529002,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93013,
+      "lon": -120.529002,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93013,
+      "lon": -120.529002,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93013,
+      "lon": -120.529002,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93013,
+      "lon": -120.529002,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93213,
+      "lon": -120.528802,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93413,
+      "lon": -120.528602,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 3
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93613,
+      "lon": -120.528402,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93813,
+      "lon": -120.528202,
+      "robot": 2,
+      "rpc_count": 4,
+      "rpc_drop": 1,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.94013,
+      "lon": -120.528002,
+      "robot": 2,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93338,
+      "lon": -120.52744,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93338,
+      "lon": -120.52744,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93338,
+      "lon": -120.52744,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93338,
+      "lon": -120.52744,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.937524,
+      "lon": -120.525479,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.936959,
+      "lon": -120.530659,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.936959,
+      "lon": -120.530659,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.936959,
+      "lon": -120.530659,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.936959,
+      "lon": -120.530659,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.936959,
+      "lon": -120.530659,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.936959,
+      "lon": -120.530659,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.936959,
+      "lon": -120.530659,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.928127,
+      "lon": -120.530659,
+      "robot": 3,
+      "rpc_count": 5,
+      "rpc_drop": 1,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.928128,
+      "lon": -120.529402,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.92813,
+      "lon": -120.529202,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93013,
+      "lon": -120.529002,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93213,
+      "lon": -120.528802,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93413,
+      "lon": -120.528602,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93613,
+      "lon": -120.528402,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.93813,
+      "lon": -120.528202,
+      "robot": 3,
+      "rpc_count": 6,
+      "rpc_drop": 1,
+      "error": 0
+    },
+    {
+      "timestamp": "010050",
+      "lat": 34.94013,
+      "lon": -120.528202,
+      "robot": 3,
+      "rpc_count": 0,
+      "rpc_drop": 0,
+      "error": 0
+    }
+  ]
+}
